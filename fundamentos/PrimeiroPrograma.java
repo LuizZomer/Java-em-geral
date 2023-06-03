@@ -1,3 +1,4 @@
+package fundamentos;
 public class PrimeiroPrograma{
     public static void main(String[] args) {
         // Teste de comentario
@@ -5,5 +6,6 @@ public class PrimeiroPrograma{
         System.out.println("Sou lindo");
         System.out.println("Sou lindo");*/
         System.out.println("Sou lindo"); 
+        
     }
 }

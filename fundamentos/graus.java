@@ -1,3 +1,4 @@
+package fundamentos;
 public class graus {
     public static void main(String[] args) {
         double f = 0;

@@ -1,3 +1,4 @@
+package fundamentos;
 public class inferencia {
     public static void main(String[] args) {
         double a = 4.5;
@@ -12,5 +13,6 @@ public class inferencia {
         double d;
         d = 12.54;
         System.out.println(d);
+
     }
 }

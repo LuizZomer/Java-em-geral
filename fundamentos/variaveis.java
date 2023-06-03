@@ -1,3 +1,4 @@
+package fundamentos;
 public class variaveis {
     public static void main(String[] args) {
         // System.out.println(2+3);
@@ -12,6 +13,8 @@ public class variaveis {
         raio = 10;
         area = pi * raio * raio;
         System.out.println("Área = " + area + "m²"); 
+
+
 
     }
 }
