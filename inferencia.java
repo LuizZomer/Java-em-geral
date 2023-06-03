@@ -5,5 +5,12 @@ public class inferencia {
 
         var b = 4.5;
         System.out.println(b);
+
+        var c = "Texto";
+        System.out.println(c);
+
+        double d;
+        d = 12.54;
+        System.out.println(d);
     }
 }
