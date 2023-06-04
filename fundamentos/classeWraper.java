@@ -6,8 +6,8 @@ public class classeWraper {
         Short s = 1000;
         // Integer i = Integer.parseInt(entrada.nextLine());
 
-        Integer i = 10000;
-        Long l = 1000000L;
+        // Integer i = 10000;
+        // Long l = 1000000L;
 
         System.out.println(b.byteValue());
         System.out.println(s.toString());
