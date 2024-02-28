@@ -45,5 +45,5 @@ Este repositório é licenciado sob a [Sua Licença]. Consulte o arquivo [LICENS
 
 ## Contato
 
-- Sr Luiz Zomer
+- Senhor Luiz Zomer
 
